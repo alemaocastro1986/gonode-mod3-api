@@ -1,9 +1,10 @@
-#Curso GoNode
-###Modulo 3 - API
+# Curso GoNode
+
+### Modulo 3 - API
 
 Api de anuncios desenvolvida durante o curso GoNode aplicado por [Rocketseat](https://rocketseat.com.br/), utilizando **NodeJs** e o framework **express**.
 
-###Conceitos abordados
+### Conceitos abordados
 
 - Utilização de serviço de E-mail (nodemailer)
 - Templates de Email personalizados (express-handlebars)
